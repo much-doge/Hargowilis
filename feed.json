@@ -1,18 +1,22 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hargowilis",
+    "title": "KKN Mandiri UNY 2020 Desa Hargowilis",
     "description": "",
     "home_page_url": "https://pengabdian.najala.org",
     "feed_url": "https://pengabdian.najala.org/feed.json",
     "user_comment": "",
+    "icon": "https://pengabdian.najala.org/media/website/uny_logo-2.png",
     "author": {
         "name": "Nur Eko Windianto"
     },
     "items": [
         {
-            "id": "https://pengabdian.najala.org/introduction.html",
-            "url": "https://pengabdian.najala.org/introduction.html",
+            "id": "https://pengabdian.najala.org/introduction/",
+            "url": "https://pengabdian.najala.org/introduction/",
             "title": "Introduction",
+            "summary": "Halo, nama saya Nur Eko Windianto. Saya mahasiswa KKN Mandiri UNY tahun 2020. Saya melaksanakan kegiatan KKN mandiri di desa&hellip;",
+            "content_html": "<p>Halo, nama saya Nur Eko Windianto. Saya mahasiswa KKN Mandiri UNY tahun 2020.<br>Saya melaksanakan kegiatan KKN mandiri di desa saya sendiri, yaitu Desa Hargowilis, Kecamatan Kokap.<br><br>Situs ini saya gunakan untuk mendokumentasikan kegiatan kegiatan KKN mandiri yang saya lakukan dari Bulan September sampai selesai.</p>",
+            "image": "https://pengabdian.najala.org/media/posts/1/drew-beamer-3SIXZisims4-unsplash.jpg",
             "author": {
                 "name": "Nur Eko Windianto"
             },
@@ -20,7 +24,7 @@
                    "Meta"
             ],
             "date_published": "2020-10-19T21:43:20+07:00",
-            "date_modified": "2020-10-19T21:43:20+07:00"
+            "date_modified": "2020-10-19T22:36:11+07:00"
         }
     ]
 }

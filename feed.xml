@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Hargowilis</title>
+    <title>KKN Mandiri UNY 2020 Desa Hargowilis</title>
     <link href="https://pengabdian.najala.org/feed.xml" rel="self" />
     <link href="https://pengabdian.najala.org" />
-    <updated>2020-10-19T21:43:20+07:00</updated>
+    <updated>2020-10-19T22:36:11+07:00</updated>
     <author>
         <name>Nur Eko Windianto</name>
     </author>
@@ -14,12 +14,22 @@
         <author>
             <name>Nur Eko Windianto</name>
         </author>
-        <link href="https://pengabdian.najala.org/introduction.html"/>
-        <id>https://pengabdian.najala.org/introduction.html</id>
+        <link href="https://pengabdian.najala.org/introduction/"/>
+        <id>https://pengabdian.najala.org/introduction/</id>
             <category term="Meta"/>
 
-        <updated>2020-10-19T21:43:20+07:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-10-19T22:36:11+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pengabdian.najala.org/media/posts/1/drew-beamer-3SIXZisims4-unsplash.jpg" alt="" />
+                    Halo, nama saya Nur Eko Windianto. Saya mahasiswa KKN Mandiri UNY tahun 2020. Saya melaksanakan kegiatan KKN mandiri di desa&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pengabdian.najala.org/media/posts/1/drew-beamer-3SIXZisims4-unsplash.jpg" alt="" />
+                <p>Halo, nama saya Nur Eko Windianto. Saya mahasiswa KKN Mandiri UNY tahun 2020.<br>Saya melaksanakan kegiatan KKN mandiri di desa saya sendiri, yaitu Desa Hargowilis, Kecamatan Kokap.<br><br>Situs ini saya gunakan untuk mendokumentasikan kegiatan kegiatan KKN mandiri yang saya lakukan dari Bulan September sampai selesai.</p>
+            ]]>
+        </content>
     </entry>
 </feed>
