@@ -3,12 +3,93 @@
     <title>KKN Mandiri UNY 2020 Desa Hargowilis</title>
     <link href="https://pengabdian.najala.org/feed.xml" rel="self" />
     <link href="https://pengabdian.najala.org" />
-    <updated>2020-10-19T22:36:11+07:00</updated>
+    <updated>2020-10-19T23:47:52+07:00</updated>
     <author>
         <name>Nur Eko Windianto</name>
     </author>
     <id>https://pengabdian.najala.org</id>
 
+    <entry>
+        <title>Pembuatan Peta Topografi Wilayah Desa Hargowilis dan Sekitarnya Menggunakan Blender</title>
+        <author>
+            <name>Nur Eko Windianto</name>
+        </author>
+        <link href="https://pengabdian.najala.org/pembuatan-peta-topografi-wilayah-desa-hargowilis-dan-sekitarnya-menggunakan-blender/"/>
+        <id>https://pengabdian.najala.org/pembuatan-peta-topografi-wilayah-desa-hargowilis-dan-sekitarnya-menggunakan-blender/</id>
+
+        <updated>2020-10-19T23:47:52+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pengabdian.najala.org/media/posts/2/Screenshot-from-2020-10-19-23-32-21-2.png" alt="" />
+                     Data peta topografi diperoleh dari data SRTM yang disediakan oleh NASA. Pembuatan peta topografi ini dapat dilakukan berkat bantuan&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pengabdian.najala.org/media/posts/2/Screenshot-from-2020-10-19-23-32-21-2.png" alt="" />
+                
+  <p>
+    Data peta topografi diperoleh dari data SRTM yang disediakan oleh NASA. Pembuatan peta topografi ini dapat dilakukan berkat bantuan program Blender dan <em>plugin</em> Blender-GIS.&nbsp;
+  </p>
+
+  <p>
+    Blender adalah perangkat lunak sumber terbuka yang bisa didapatkan pada sistem operasi yang beredar di pasar seperti Microsoft Windows, Mac OS, dan GNU/Linux. Blener dapat diunduh dan dipasang melalui tautan berikut:&nbsp;<a href="https://www.blender.org/download/">https://www.blender.org/download/</a>
+  </p>
+
+  <p>
+    Setelah Blender terpasang, kita harus mengunduh <i>plugin</i> Blender-GIS yang tersedia di lumbung sumbernya (<i>repository</i>) di Github:&nbsp;<a href="https://github.com/domlysz/BlenderGIS">https://github.com/domlysz/BlenderGIS</a>
+  </p>
+
+  <p>
+    Berikut adalah tampilan Blender saat pertama kali dijalankan:
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://pengabdian.najala.org/media/posts/2/Screenshot-from-2020-10-19-23-31-28-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://pengabdian.najala.org/media/posts/2/responsive/Screenshot-from-2020-10-19-23-31-28-2-xs.png 300w ,https://pengabdian.najala.org/media/posts/2/responsive/Screenshot-from-2020-10-19-23-31-28-2-sm.png 480w ,https://pengabdian.najala.org/media/posts/2/responsive/Screenshot-from-2020-10-19-23-31-28-2-md.png 768w"  height="768" width="1366" alt="" />
+      
+    </figure>
+
+  <p>
+    Proses pembuatan peta topografi area Hargowilis (Waduk Sermo terlihat biru :D):
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://pengabdian.najala.org/media/posts/2/Screenshot-from-2020-10-19-23-32-21-3.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://pengabdian.najala.org/media/posts/2/responsive/Screenshot-from-2020-10-19-23-32-21-3-xs.png 300w ,https://pengabdian.najala.org/media/posts/2/responsive/Screenshot-from-2020-10-19-23-32-21-3-sm.png 480w ,https://pengabdian.najala.org/media/posts/2/responsive/Screenshot-from-2020-10-19-23-32-21-3-md.png 768w"  height="768" width="1366" alt="" />
+      
+    </figure>
+
+  <p>
+    File yang dihasilkan adalah file tiga dimensi yang dapat kita lihat dari berbagai arah. Kita harus me-<i>render </i>filenya menjadi gambar jika kita ingin mendapatkan gambar akhir yang bisa dipakai sebagai bahan pembuatan peta yang nantinya bisa kita tambahkan <i>overlay </i>jalan raya, objek wisata, dan keterangan lainnya.
+  </p>
+
+  <p>
+    Berikut adalah hasil <i>render </i>dari file 3D yang saya buat:
+  </p>
+
+  <p>
+    Percobaan pertama (render saya jelek, kurang enak dilihat karena belum saya tambah <i>ambient occulsion </i>dan kawan-kawannya)
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://pengabdian.najala.org/media/posts/2/kokap-lo-2.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://pengabdian.najala.org/media/posts/2/responsive/kokap-lo-2-xs.jpg 300w ,https://pengabdian.najala.org/media/posts/2/responsive/kokap-lo-2-sm.jpg 480w ,https://pengabdian.najala.org/media/posts/2/responsive/kokap-lo-2-md.jpg 768w"  height="768" width="960" alt="" />
+      
+    </figure>
+
+  <p>
+    Percobaan kedua, lumayan memuaskan hehe :D
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://pengabdian.najala.org/media/posts/2/kokap2-lo.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://pengabdian.najala.org/media/posts/2/responsive/kokap2-lo-xs.jpg 300w ,https://pengabdian.najala.org/media/posts/2/responsive/kokap2-lo-sm.jpg 480w ,https://pengabdian.najala.org/media/posts/2/responsive/kokap2-lo-md.jpg 768w"  height="768" width="960" alt="" />
+      
+    </figure>
+
+  <p>
+    Gambar asli ukurannya sangat besar (sekitar 25MB), jika ada pertanyaan bisa dikirimkan melalui e-mail: <a href="#INTERNAL_LINK#/author/nur-eko-windianto">windianto@najala.org</a>
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Introduction</title>
         <author>
