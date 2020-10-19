@@ -9,5 +9,18 @@
         "name": "Nur Eko Windianto"
     },
     "items": [
+        {
+            "id": "https://pengabdian.najala.org/introduction.html",
+            "url": "https://pengabdian.najala.org/introduction.html",
+            "title": "Introduction",
+            "author": {
+                "name": "Nur Eko Windianto"
+            },
+            "tags": [
+                   "Meta"
+            ],
+            "date_published": "2020-10-19T21:43:20+07:00",
+            "date_modified": "2020-10-19T21:43:20+07:00"
+        }
     ]
 }
