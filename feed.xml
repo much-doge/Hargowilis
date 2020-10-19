@@ -3,12 +3,61 @@
     <title>KKN Mandiri UNY 2020 Desa Hargowilis</title>
     <link href="https://pengabdian.najala.org/feed.xml" rel="self" />
     <link href="https://pengabdian.najala.org" />
-    <updated>2020-10-19T23:47:52+07:00</updated>
+    <updated>2020-10-20T06:54:54+07:00</updated>
     <author>
         <name>Nur Eko Windianto</name>
     </author>
     <id>https://pengabdian.najala.org</id>
 
+    <entry>
+        <title>Diskusi dengan Pak Dukuh Mengenai Pemetaan dan Pendataan Nomor Rumah Warga Dusun Sidowayah</title>
+        <author>
+            <name>Nur Eko Windianto</name>
+        </author>
+        <link href="https://pengabdian.najala.org/diskusi-dengan-pak-dukuh-mengenai-pemetaan-dan-pendataan-nomor-rumah-warga-dusun-sidowayah/"/>
+        <id>https://pengabdian.najala.org/diskusi-dengan-pak-dukuh-mengenai-pemetaan-dan-pendataan-nomor-rumah-warga-dusun-sidowayah/</id>
+
+        <updated>2020-10-20T06:54:54+07:00</updated>
+            <summary>
+                <![CDATA[
+                     Saya berdiskusi dengan pak dukuh Dusun Sidowayah mengenai hal apa saja yang bisa saya lakukan untuk membantu pemetaan Dusun&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://pengabdian.najala.org/media/posts/3/20201012_134346-lo.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://pengabdian.najala.org/media/posts/3/responsive/20201012_134346-lo-xs.jpg 300w ,https://pengabdian.najala.org/media/posts/3/responsive/20201012_134346-lo-sm.jpg 480w ,https://pengabdian.najala.org/media/posts/3/responsive/20201012_134346-lo-md.jpg 768w"  height="768" width="1223" alt="" />
+      
+    </figure>
+
+  <p>
+    Saya berdiskusi dengan pak dukuh Dusun Sidowayah mengenai hal apa saja yang bisa saya lakukan untuk membantu pemetaan Dusun Sidowayah. Pak dukuh memberi saya data pemetaan yang sudah ada, saya berharap saya dapat menyempurnakan dan melengkapi data yang sudah ada tersebut.&nbsp;
+  </p>
+
+  <p>
+    Data yang sudah ada:
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://pengabdian.najala.org/media/posts/3/Screenshot-from-2020-10-20-06-48-25.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://pengabdian.najala.org/media/posts/3/responsive/Screenshot-from-2020-10-20-06-48-25-xs.png 300w ,https://pengabdian.najala.org/media/posts/3/responsive/Screenshot-from-2020-10-20-06-48-25-sm.png 480w ,https://pengabdian.najala.org/media/posts/3/responsive/Screenshot-from-2020-10-20-06-48-25-md.png 768w"  height="681" width="1359" alt="" />
+      
+    </figure>
+
+  <p>
+    Hasilnya diantara lain adalah peta dari setiap wilayah RT dan nomor rumah di setiap RT.
+  </p>
+
+  <p>
+    Saya akan menggunakan OpenStreetmap unutk medapatkan data lokasi rumah sesungguhnya. Beberapa rumah memang tidak terlihat dari satelit karena tertutup pohon atau citra satelitnya sendiri yang kurang bagus(tertutup awan dan sebagainya). Jadi disamping pendataan dari OpenStreetmap, saya juga melakukan pendataan manual melalui survei lapangan.&nbsp;
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pembuatan Peta Topografi Wilayah Desa Hargowilis dan Sekitarnya Menggunakan Blender</title>
         <author>
