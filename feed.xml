@@ -3,12 +3,93 @@
     <title>KKN Mandiri UNY 2020 Desa Hargowilis</title>
     <link href="https://pengabdian.najala.org/feed.xml" rel="self" />
     <link href="https://pengabdian.najala.org" />
-    <updated>2020-11-30T10:30:02+07:00</updated>
+    <updated>2020-11-30T10:58:23+07:00</updated>
     <author>
         <name>Nur Eko Windianto</name>
     </author>
     <id>https://pengabdian.najala.org</id>
 
+    <entry>
+        <title>Terjemahan - Pembatasan Kerumunan adalah Tindkan Efektif: Model jaringan mobilitas COVID-19 menjelaskan ketidakadilan dan menginformasikan pembukaan kembali</title>
+        <author>
+            <name>Nur Eko Windianto</name>
+        </author>
+        <link href="https://pengabdian.najala.org/terjemahan-pembatasan-kerumunan-adalah-tindkan-efektif-model-jaringan-mobilitas-covid-19-menjelaskan-ketidakadilan-dan-menginformasikan-pembukaan-kembali/"/>
+        <id>https://pengabdian.najala.org/terjemahan-pembatasan-kerumunan-adalah-tindkan-efektif-model-jaringan-mobilitas-covid-19-menjelaskan-ketidakadilan-dan-menginformasikan-pembukaan-kembali/</id>
+
+        <updated>2020-11-30T10:58:23+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pengabdian.najala.org/media/posts/10/united-nations-covid-19-response-N1caHdFQ734-unsplash.jpg" alt="" />
+                     https://www.nature.com/articles/s41586-020-2923-3?T=AU Pandemi COVID--191 secara dramatis mengubah pola mobilitas manusia, mengharuskan model epidemiologi yang menangkap efek perubahan mobilitas pada penyebaran&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pengabdian.najala.org/media/posts/10/united-nations-covid-19-response-N1caHdFQ734-unsplash.jpg" alt="" />
+                
+  <p>
+    <br>https://www.nature.com/articles/s41586-020-2923-3?T=AU
+  </p>
+
+  <p>
+    Pandemi COVID--191 secara dramatis mengubah pola mobilitas manusia, mengharuskan model epidemiologi yang menangkap efek perubahan mobilitas pada penyebaran virus1. Kami memperkenalkan model SEIR metapopulasi yang mengintegrasikan jaringan mobilitas dinamis beruban halus untuk mensimulasikan penyebaran SARS-CoV-2 di 10 area statistik metropolitan AS terbesar.&nbsp;
+  </p>
+
+  <p>
+    Berasal dari data ponsel, jaringan mobilitas kami memetakan pergerakan per jam 98 juta orang dari lingkungan (kelompok blok sensus, atau CBG) ke tempat-tempat menarik (POI) seperti restoran dan tempat keagamaan, menghubungkan 57k CBG ke 553k POI dengan 5.4 miliar tepi per jam. Kami menunjukkan bahwa dengan mengintegrasikan jaringan ini, model SEIR yang relatif sederhana dapat secara akurat sesuai dengan lintasan kasus nyata, meskipun terdapat perubahan substansial dalam perilaku populasi dari waktu ke waktu.&nbsp;
+  </p>
+
+  <p>
+    Model kami memprediksi bahwa sebagian kecil POI "superspreader" menyumbang sebagian besar infeksi dan bahwa membatasi hunian maksimum di setiap LYD lebih efektif daripada mengurangi mobilitas secara seragam. Model kami juga memprediksi dengan tepat tingkat infeksi yang lebih tinggi di antara kelompok ras dan sosial ekonomi yang kurang beruntung2–8 semata-mata dari perbedaan dalam mobilitas: kami menemukan bahwa kelompok yang kurang beruntung belum mampu mengurangi mobilitas secara tajam, dan bahwa POI yang mereka kunjungi lebih ramai dan oleh karena itu lebih tinggi- risiko. Dengan menangkap siapa yang terinfeksi di lokasi mana, model kami mendukung analisis terperinci yang dapat menginformasikan respons kebijakan yang lebih efektif dan merata terhadap COVID-19.<br><br>Menanggapi krisis COVID-19 perintah tinggal di rumah diberlakukan di banyak negara untuk mengurangi kontak antar individu dan memperlambat penyebaran virus9. Sejak itu, pejabat publik terus bermusyawarah tentang kapan harus dibuka kembali, tempat mana yang aman untuk kembali, dan berapa banyak aktivitas yang memungkinkan10.&nbsp;
+  </p>
+
+  <p>
+    Menjawab pertanyaan-pertanyaan ini membutuhkan model epi-demiologis yang dapat menangkap efek perubahan mobilitas pada penyebaran virus. Secara khusus, temuan covid-19 "penyebar super" peristiwa11–14 memotivasi model yang dapat mencerminkan risiko heterogen mengunjungi lokasi yang berbeda, sementara perbedaan yang dilaporkan dengan baik dalam tingkat infeksi2 membutuhkan model yang dapat menjelaskan dampak tidak proporsional dari virus pada kelompok yang kurang beruntung.&nbsp;
+  </p>
+
+  <p>
+    Untuk mengatasi kebutuhan ini, kami membangun jaringan mobilitas dinamis berbutir halus dari data geolokasi ponsel, dan menggunakan jaringan ini untuk memodelkan penyebaran SARS-CoV8 dalam -2 area statistik metropolitan terbesar (disebut di bawah ini sebagai area metro) di Amerika Serikat. Jaringan ini memetakan pergerakan per jam 98 juta orang dari kelompok blok sensus (CBG), yang merupakan unit geografis yang biasanya berisi 600–3,000 orang, ke tempat-tempat tertentu (POI). Seperti yang ditunjukkan dalam Table S1, POI adalah lokasi non-perumahan yang dikunjungi orang seperti restoran, toko kelontong, dan tempat keagamaan.&nbsp;
+  </p>
+
+  <p>
+    Di atas setiap jaringan, kami melapisi model SEIR metapopulasi yang melacak lintasan infeksi masing-masing CBG serta POI di mana infeksi ini kemungkinan telah terjadi. Ini dibangun berdasarkan pekerjaan sebelumnya yang menanyai penyebaran penyakit menggunakan data mobilitas agregat15–19, historis20–22, atau sintetis23–25; secara terpisah, pekerjaan lain telah menganalisis data mobilitas dalam konteks COVID-19, tetapi tanpa model penyebaran penyakit yang mendasarinya26Menggabungkan model epidemiologi kami dengan net-work mobilitas ini memungkinkan kami untuk tidak hanya secara akurat sesuai dengan jumlah kasus yang diamati, tetapi juga untuk melakukan analisis terperinci yang dapat menginformasikan respons kebijakan yang lebih efektif dan merata terhadap COVID30.&nbsp;
+  </p>
+
+  <p>
+    Dengan menangkap informasi tentang POI individu (misalnya, jumlah pengunjung per jam, durasi kunjungan median), model kami dapat memperkirakan dampak dari strategi pembukaan kembali tertentu, seperti hanya membuka kembali kategori POI tertentu atau membatasi okupansi maksimum di setiap POI. Dengan memodelkan gerakan dari CBG, model kami dapat mengidentifikasi populasi berisiko dan memprediksi dengan benar, semata-mata dari pola mobilitas, bahwa kelompok ras dan sosial ekonomi yang kurang beruntung menghadapi tingkat infeksi yang lebih tinggi. Model kami memungkinkan analisis disparitas kesehatan yang mendesak; kami menggunakannya untuk menerangi dua mekanisme terkait mobilitas yang mendorong kesenjangan ini dan untuk mengevaluasi dampak yang berbeda dari pembukaan kembali pada kelompok yang kurang beruntung.
+  </p>
+
+    <h2 id="pembukaan-kembali-dengan-mengurangi-hunian-maksimum">
+      Pembukaan kembali dengan mengurangi hunian maksimum
+    </h2>
+
+  <p>
+    Jika minoritas POI menghasilkan sebagian besar infeksi, maka membuka kembali strategi yang secara khusus menargetkan POI berisiko tinggi harus sangat efektif. Untuk menguji satu strategi tersebut, kami mensimulasikan pembukaan kembali pada 1, Mei, dan memodelkan efek mengurangi hunian maksimum di mana jumlah kunjungan per jam ke setiap POI kembali ke tingkat "normal" mereka dari minggu pertama Maret tetapi ditutup jika mereka melebihi sebagian kecil dari hunian maksimum POI35.&nbsp;
+  </p>
+
+  <p>
+    Pembukaan kembali penuh tanpa mengurangi hunian maksimum menghasilkan lonjakan infeksi yang diprediksi: di daerah metro Chicago, model kami memproyeksikan bahwa tambahan 32% (95% CI, 25%–35%) populasi akan terinfeksi pada akhir Mei (Gambar 2c). Namun, mengurangi hunian maksimum secara substansial mengurangi risiko tanpa mengurangi mobilitas keseluruhan secara tajam: pembatasan pada 20% hunian maksimum di daerah metro Chicago mengurangi infeksi baru yang telah didiktekan lebih dari 80% tetapi hanya kehilangan 42% dari keseluruhan kunjungan, dan kami mengamati tren serupa di seluruh area metro lainnya (ED Figure 3).&nbsp;
+  </p>
+
+  <p>
+    Ini menyoroti non-linearitas infeksi yang diprediksi sebagai fungsi kunjungan: seseorang dapat mencapai pengurangan infeksi yang tidak proporsional besar dengan pengurangan kunjungan yang kecil. Selain itu, dibandingkan dengan strategi pembukaan kembali lain yang secara seragam mengurangi kunjungan ke setiap POI dari tingkat mereka pada awal Maret, mengurangi hunian maksimum selalu menghasilkan lebih sedikit infeksi yang diprediksi untuk jumlah kunjungan total yang sama (Gambar 2c dan ED Gambar 4). Ini karena berkurangnya hunian maksimum memanfaatkan kepadatan kunjungan yang bervariasi dalam setiap POI, secara tidak proporsional mengurangi kunjungan ke LYD selama periode kepadatan tinggi yang paling berisiko, tetapi membiarkan jumlah kunjungan tidak berubah selama periode yang kurang berisiko. Hasil ini mendukung temuan sebelumnya bahwa intervensi yang tepat, seperti mengurangi hunian maksimum, mungkin lebih effec-tive daripada langkah-langkah yang kurang tepat sasaran, sementara menimbulkan biaya ekonomi yang jauh lebih rendah36<br><br>Kumpulan data mobilitas yang kami gunakan memiliki keterbatasan: tidak mencakup semua populasi, tidak berisi semua POI, dan tidak dapat menangkap heterogenitas sub-CBG. Model kami sendiri juga parsimonious, dan tidak termasuk semua fitur dunia nyata yang relevan dengan penularan penyakit. Kami membahas keterbatasan ini secara lebih rinci dalam Diskusi SI. Namun, akurasi prediktif model kami menunjukkan bahwa ia secara luas menangkap hubungan antara mobilitas dan transmisi, dan dengan demikian kami mengharapkan kesimpulan luas kami — misalnya, bahwa orang-orang dari CBG berpenghasilan rendah memiliki tingkat infeksi yang lebih tinggi sebagian karena mereka cenderung mengunjungi POI yang lebih padat dan karena mereka belum mengurangi mobilitas sebanyak (kemungkinan karena mereka tidak dapat dengan mudah bekerja dari rumah4)—untuk bertahan dengan kuat.&nbsp;
+  </p>
+
+  <p>
+    Pendekatan pemodelan jaringan kami yang halus secara alami meluas ke kumpulan data mobilitas dan model lain yang menangkap lebih banyak aspek transmisi dunia nyata, dan ini mewakili arah yang menarik untuk pekerjaan di masa depan. Hasil kami dapat memandu pembuat kebijakan yang ingin menilai pendekatan bersaing untuk membuka kembali. Meskipun meningkatnya kekhawatiran tentang kesenjangan ras dan sosial ekonomi dalam infeksi dan kematian, sulit bagi pembuat kebijakan untuk bertindak atas kekhawatiran tersebut; mereka saat ini beroperasi tanpa banyak bukti tentang dampak yang berbeda dari kebijakan pembukaan kembali, mendorong seruan untuk penelitian yang keduanya mengidentifikasi penyebab kesenjangan yang diamati dan menyarankan pendekatan kebijakan untuk mengurangi mereka5,8,37,38.&nbsp;
+  </p>
+
+  <p>
+    Pemodelan mobilitas kami yang halus membahas kedua kebutuhan ini. Hasil kami menunjukkan bahwa perbedaan infeksi bukanlah urutan kon-urutan faktor yang tidak dapat dihindari yang sulit diatasi dalam jangka pendek, seperti perbedaan dalam kondisi yang sudah ada sebelumnya; sebaliknya, keputusan kebijakan jangka pendek secara substansial dapat mempengaruhi hasil infeksi dengan mengubah jumlah mobilitas keseluruhan yang diizinkan dan jenis-jenis POI dibuka kembali.&nbsp;
+  </p>
+
+  <p>
+    Mempertimbangkan dampak yang berbeda dari rencana pembukaan kembali dapat menyebabkan poli-cymakers untuk mengadopsi kebijakan yang dapat menurunkan kepadatan infeksi di lingkungan yang kurang beruntung dengan mendukung, misalnya, (1) topi yang lebih ketat pada hunian POI, (2) pusat distribusi makanan darurat untuk mengurangi kepadatan di toko berisiko tinggi, (3) pengujian gratis dan tersedia secara luas di lingkungan yang diprediksi berisiko tinggi (terutama mengingat perbedaan yang diketahui , 2) peningkatan kebijakan cuti berbayar atau dukungan pendapatan yang memungkinkan pekerja esensial untuk membatasi mobilitas ketika sakit, dan (4) meningkatkan pencegahan infeksi di tempat kerja untuk pekerja-kerja penting, seperti APD berkualitas tinggi, ventilasi yang baik, dan jarak jika memungkinkan. Ketika kebijakan pembukaan kembali terus diperdebatkan, sangat penting untuk membangun alat yang dapat menilai efektivitas dan pemerataan pendekatan yang berbeda-beda. Kami berharap bahwa model kami, dengan menangkap heterogenitas di seluruh POI, kelompok demografis, dan kota, membantu mengatasi kebutuhan ini.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Terjemahan - Selalu Jaga Kesehatan Anda: Social Distancing dan pemakaian masker juga melindungi terhadap banyak penyakit lain</title>
         <author>
